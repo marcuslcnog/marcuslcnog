@@ -1,6 +1,6 @@
 ### Hello World, I'm Marcus 👋
 
-- 🔭 I’m currently working as the main PO at [stantmob](https://www.linkedin.com/company/stant/
+- 🔭 I’m currently working as the main PO at [stantmob](https://www.linkedin.com/company/stant/)
 - 🌱 I’m currently learning Android development
 - 👯 I’m looking to collaborate on Android projects
 - 📫 Reach me at:
