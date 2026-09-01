@@ -52,11 +52,46 @@ Vertical de Infraestrutura Financeira Banking (InfraFin), em três squads:
 
 Fora do trabalho eu escrevo código pelas mesmas razões que me fizeram virar PM:
 quero entender a coisa por dentro, e às vezes a ferramenta que eu queria usar
-simplesmente não existe.
+simplesmente não existe. O que sai daí assino como **Catchau**.
 
-- **[Mesa de Roshar](https://github.com/marcuslcnog/mesa-de-roshar)** — ficha,
-  rolador e consulta de regras do Cosmere RPG. HTML, CSS e JavaScript puros,
-  sem build e sem servidor: tudo roda no navegador e nada sai do aparelho.
+**📱 App na Google Play**
+
+[**Long Hok: Kung Fu Fei Hok Phai**](https://play.google.com/store/apps/details?id=com.longhok.app)
+— app oficial da Academia Long Hok, em Maceió. Todo o currículo do estilo Fei
+Hok Phai na palma da mão: as formas de cada faixa em vídeo, as sete bases,
+flashcards de pré-exame, glossário em cantonês e o acervo de história da
+linhagem. Acesso restrito aos alunos matriculados, com o conteúdo liberado até
+a próxima graduação de cada um.
+
+**⌚ Mostradores de smartwatch**
+
+Oito mostradores em Watch Face Format publicados no Facer, para Wear OS e
+Galaxy Watch — [**facer.io/u/catchau**](https://www.facer.io/u/catchau). Quase
+todos reagem ao seu dia: o personagem evolui conforme os passos, a arte muda
+entre dia e noite e a lua mostra a fase real do hemisfério sul.
+
+| | |
+|---|---|
+| [Hatchling — The Dragon Watch](https://www.facer.io/watchface/NKGHJpD1A7) | dragão que choca e cresce em 4 estágios pelos passos — arte 100% original |
+| [Radiant Orders](https://www.facer.io/watchface/HY0KQyxbKB) | as 20 peças do diagrama dos Radiantes acendendo conforme a meta do dia |
+| [Saiyan Steps](https://www.facer.io/watchface/8OuJXP0JLM) | lutador em pixel art que sobe de forma a cada 1.200 passos |
+| [SolarSystem](https://www.facer.io/watchface/OK6pMz43OO) | 8 planetas em órbita: um dia de relógio equivale a um ano de translação |
+| [Spirit Oasis](https://www.facer.io/watchface/ea7HgSZ2pT) | dois peixes koi em yin-yang, com as métricas nas quatro nações |
+| [Chinese Zodiac](https://www.facer.io/watchface/qLWYUzowuI) | os 12 animais em anel; acende o do horário-duplo chinês atual |
+| [Armory](https://www.facer.io/watchface/oGHbPXOoe2) | tela de inventário de RPG — o equipamento evolui com os passos |
+| [Pixel Hourglass](https://www.facer.io/watchface/DaKJHXhKym) | a areia escoa nas 24 horas do dia, em tempo real |
+
+**🎲 Web**
+
+[**Mesa de Roshar**](https://github.com/marcuslcnog/mesa-de-roshar) — ficha,
+rolador e consulta de regras do Cosmere RPG. HTML, CSS e JavaScript puros, sem
+build e sem servidor: tudo roda no navegador e nada sai do aparelho.
+[Ver funcionando ↗](https://marcuslcnog.github.io/mesa-de-roshar/)
+
+**🖨️ Fora da tela**
+
+Também modelo e imprimo em 3D — as peças ficam em
+[**@catchau.3d.prints**](https://www.instagram.com/catchau.3d.prints/).
 
 ---
 
