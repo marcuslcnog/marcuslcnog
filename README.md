@@ -1,6 +1,6 @@
 ## Marcus Nogueira
 
-**Product Manager @ Stone Co.** — Infraestrutura Financeira & Banking
+**Product Manager @ Stone Co.** — Infraestrutura Financeira & Banking<br>
 APIs · BaaS · Gateway · Alta disponibilidade · Plataformização
 
 Engenheiro civil que virou PM em 2019 e não olhou para trás. Hoje cuido da
